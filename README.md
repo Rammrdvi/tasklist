@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 
 2. Navigate to the project directory:
     ```bash
-    cd <your-repo-name>
+    cd tasklist
     ```
 
 3. Install all the required dependencies:
