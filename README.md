@@ -5,6 +5,7 @@ This project is a simple task management application built with **Laravel** and 
 ## Features
 
 - **Add Tasks**: You can add tasks with a title, description, and long description.
+- **Edit and Update Tasks**: You can edit and update tasks with a title, description, and long description.
 - **Mark as Completed**: Tasks can be marked as completed or not completed.
 - **Simple Interface**: Fully styled with **Tailwind CSS** for a clean and responsive UI.
 
